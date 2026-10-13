@@ -20,7 +20,7 @@ Sales vary widely across stores, but it is not clear what drives the differences
 
 ## Dataset
 
-- **Source:** Kaggle, *Supermarket Store Branches Sales Analysis* by surajjha101: https://baselight.app/u/kaggle/dataset/surajjha101_stores_area_and_sales_data
+- **Source:** Kaggle, *Supermarket Store Branches Sales Analysis* by surajjha101: https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data
 - **File used in this project:** `Use_Stores.csv`
 - **Size:** 896 stores, 5 columns, no missing values
 - **Columns:**
